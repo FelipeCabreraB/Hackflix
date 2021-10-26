@@ -1,0 +1,30 @@
+#header {
+  background: linear-gradient(rgba(90, 90, 90, 0.596), rgba(90, 90, 90, 0.596)),
+    url("https://wallpaperaccess.com/full/3988284.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: white;
+  height: 50vh;
+}
+.a-header {
+  text-decoration: none;
+  color: white;
+}
+.a-header:hover {
+  color: white;
+  text-decoration: underline;
+}
+#searchBar {
+  max-width: 400px;
+}
+#image {
+  transition: transform 0.2s;
+}
+#image:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.active {
+  text-decoration: underline;
+}

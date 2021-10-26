@@ -1,0 +1,8 @@
+.bi-star-fill:hover {
+  fill: yellow;
+  cursor: pointer;
+}
+
+div .star:hover {
+  fill: yellow;
+}

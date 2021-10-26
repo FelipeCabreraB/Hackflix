@@ -1,0 +1,15 @@
+#image-movie {
+  max-height: 500px;
+}
+
+.movie-bg {
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.952),
+      rgba(255, 255, 255, 0.952)
+    ),
+    url("https://wallpaperaccess.com/full/3988284.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border: 1px solid rgb(238, 238, 238);
+}
